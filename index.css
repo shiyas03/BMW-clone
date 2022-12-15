@@ -1,0 +1,597 @@
+body {
+    margin: 0;
+}
+
+.image-body {
+    background-image: url("https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/Images/Topics/Insights/wearem/XM_Front_FINAL_withLogo_desktop-1.png/jcr:content/renditions/cq5dam.resized.img.1680.large.time1670337577827.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 690px;
+}
+
+header {
+    width: 100%;
+}
+
+.sub-header {
+    width: 1150px;
+    height: 80px;
+    border-bottom: solid;
+    border-width: 1pt;
+    border-color: rgb(234, 232, 232);
+    padding-top: 10px;
+    margin-left: 130px;
+    margin-top: 15px;
+    padding-top: 10px;
+    float: left;
+}
+
+nav div ul li {
+    list-style-type: none;
+    float: left;
+    padding-right: 30px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav div ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+nav div ul li i {
+    padding-left: 35px;
+    float: left;
+}
+
+.icon-align {
+    color: white;
+    font-size: 23px;
+    margin-left: 350px;
+    list-style-type: none;
+    float: left;
+}
+
+.logo {
+    padding-top: 20px;
+}
+
+.image-text-top {
+    text-align: right;
+    padding-right: 230px;
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: lighter;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image-text {
+    margin-top: -20px;
+    margin-left: 70px;
+    width: 330px;
+    height: 300px;
+}
+
+.image-text-bottom {
+    width: 500px;
+    color: black;
+    font-size: 50px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image-link {
+    background-color: #1c69d4;
+    color: white;
+    padding: 0px 100px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.image-raw {
+    width: 100%;
+    height: 460px;
+}
+
+.image1 {
+    margin-top: 5px;
+    width: 50%;
+    height: 400px;
+    background-image: url("https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/Images/joytown/JOYTOWN_Delhi_1920x1080_v1%20(1)%20copy%20(4).jpg/jcr:content/renditions/cq5dam.resized.img.1680.large.time1668417479338.jpg");
+    background-size: cover;
+    float: left;
+}
+
+.image2 {
+    margin-top: 5px;
+    margin-left: 5px;
+    float: left;
+    width: 49.5%;
+    height: 400px;
+    background-image: url("https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/all-models/3-series/M340i/1680x756.jpg/jcr:content/renditions/cq5dam.resized.img.1680.large.time1670416296485.jpg");
+    background-size: cover;
+}
+
+.link-image1 {
+    border: solid;
+    color: white;
+    margin-top: 300px;
+    margin-left: 30px;
+    padding: 0px 100px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.link-image2 {
+    color: white;
+    border: solid;
+    padding: 0px 100px;
+    width: 130px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.image2-text {
+    height: 5px;
+    margin-top: 30px;
+    margin-left: 30px;
+    color: white;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.model-type {
+    margin-left: 10%;
+    width: 80%;
+    height: 50px;
+    border-bottom: solid;
+    border-color: rgb(202, 200, 200);
+    border-width: 1px;
+    padding-bottom: 30px;
+}
+
+.model-type-raw li {
+    float: left;
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+.series {
+    float: left;
+    width: 80px;
+    height: 78px;
+    border-bottom: solid;
+    border-color: #1c69d4;
+    border-width: 4px;
+    margin-left: -30px;
+}
+
+.model-type-raw a {
+    text-decoration: none;
+    color: black;
+}
+
+.link-name {
+    font-size: 23px;
+    text-decoration: none;
+    color: black;
+}
+
+.model-names {
+    width: 80%;
+    height: 70px;
+    margin-left: 10%;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: rgb(169, 168, 168);
+}
+
+.model-name-raw li {
+    float: left;
+    padding-right: 40px;
+    list-style-type: none;
+
+}
+
+.model-name-raw p {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.model-name-raw li a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.all {
+    float: left;
+    width: 40px;
+    height: 68px;
+    padding-left: 20px;
+    margin-left: -30px;
+    margin-right: 20px;
+    border-bottom: solid;
+    border-color: #1c69d4;
+    border-width: 4px;
+}
+
+.all-link-image {
+    width: 50%;
+    height: 500px;
+    margin-left: 20%;
+}
+
+.image-resize {
+    width: 350px;
+}
+
+.discover-all-link {
+    background-color: #1c69d4;
+    color: white;
+    padding: 0px 100px;
+    margin-left: 350px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+}
+
+.suggestion {
+    margin-left: 10%;
+    width: 1350px;
+    height: 750px;
+}
+
+.heading {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+}
+
+.card {
+    width: 450px;
+    height: 600px;
+    float: left;
+}
+
+.card p {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.card-link {
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+.card-link-size {
+    border: 1px groove;
+    border-color: black;
+    width: 350px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.more-details {
+    margin-left: 10%;
+    width: 1280px;
+    height: 1400px;
+}
+
+.more-details p,
+a {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.outer-card1,
+.outer-card3 {
+    width: 600px;
+    height: 560px;
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(230, 226, 226);
+    float: left;
+    margin-top: 100px;
+}
+
+.outer-card1,
+.outer-card2 {
+    height: 520px;
+}
+
+.outer-card3,
+.outer-card4 {
+    height: 560px;
+}
+
+.outer-card1 img,
+.outer-card2 img,
+.outer-card3 img,
+.outer-card4 img {
+    width: 560px;
+}
+
+.outer-card2,
+.outer-card4 {
+    margin-left: 20px;
+    width: 600px;
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(230, 226, 226);
+    float: left;
+    margin-top: 100px;
+}
+
+.card-more {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.card-content a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.outer-card2 div a h3 {
+    padding-top: 50px;
+    color: black;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.outer-card2 a,
+.outer-card3 a {
+    text-decoration: none;
+}
+
+.outer-card3 div a h3 {
+    padding-top: 45px;
+    text-decoration: none;
+    color: black;
+}
+
+.outer-card4 div a {
+    text-decoration: none;
+    color: black;
+}
+
+.bottom {
+    width: 80%;
+    height: 310px;
+    margin-left: 10%;
+}
+
+.bottom div h1 {
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.bottom div h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.sections {
+    margin-top: 100px;
+}
+
+.bottom-section {
+    width: 13%;
+    height: 100px;
+    text-align: center;
+    float: left;
+    margin-right: 30px;
+    border-bottom: solid;
+    border-color: rgb(211, 209, 209);
+}
+
+.bottom-section a {
+    text-decoration: none;
+    color: rgb(95, 94, 94);
+}
+
+.bottom-section a h3 {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.bottom-image {
+    width: 80%;
+    height: 400px;
+    margin-left: 10%;
+    float: left;
+}
+
+.image-bottom img {
+    float: left;
+    width: 500px;
+}
+
+.bottom-content {
+    float: left;
+    margin-left: 30px;
+}
+
+.bottom-content h2 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.bottom-content p {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.bottom-content a {
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.bottom-boxes {
+    width: 80%;
+    height: 250px;
+    margin-left: 10%;
+    margin-top: 450px;
+}
+
+.boxes {
+    width: 18%;
+    height: 150px;
+    margin-right: 20px;
+    float: left;
+    background-color: rgb(241, 238, 238);
+}
+
+.boxes i {
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 50px;
+    color: rgb(105, 104, 104);
+}
+
+.box-text {
+    font-size: 15px;
+    font-weight: light;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(105, 104, 104);
+}
+
+.bottom-nav {
+    width: 100%;
+    height: 50px;
+    bottom: 0;
+    background-color: white;
+    position: fixed;
+}
+
+.nav-bottom {
+    width: 40%;
+    height: 100px;
+    margin-left: 33%;
+}
+
+.bnav {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin-right: 40px;
+}
+
+.bnav i {
+    font-size: 20px;
+    padding-left: 35%;
+    padding-top: 5px;
+    color: #4d4d4d;
+}
+
+.bnav p {
+    margin-top: 0px;
+    padding-left: 10px;
+    font-size: 11px;
+    color: #4d4d4d;
+}
+
+.footer {
+    width: 100%;
+    height: 600px;
+    background-color: rgb(229, 228, 228);
+}
+
+.footer-top {
+    width: 80%;
+    height: 250px;
+    margin-left: 10%;
+    border-bottom: solid;
+    border-width: thin;
+    border-color: rgb(105, 104, 104);
+}
+
+.footer-top-content {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 900px;
+    padding-top: 80px;
+    color: rgb(105, 104, 104);
+}
+
+.footer-top-content a {
+    padding-right: 30px;
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(105, 104, 104);
+}
+
+.footer-bottom {
+    width: 80%;
+    height: 300px;
+    margin-left: 10%;
+}
+
+.final-content {
+    width: 210px;
+    height: 250px;
+    margin-top: 50px;
+    float: left;
+    margin-right: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.final-content h2,
+p {
+    font-weight: lighter;
+}
+
+.final-content a {
+    text-decoration: none;
+    color: rgb(105, 104, 104);
+    font-weight: bold;
+}
+
+.footer-out {
+    width: 100%;
+    height: 80px;
+    float: left;
+}
+
+.footer-out p {
+    padding-left: 10%;
+    padding-top: 20px;
+    float: left;
+}
+
+.footer-out div {
+    margin-left: 800px;
+    padding-top: 30px;
+}
+
+.footer-out a {
+    font-size: 15px;
+    text-decoration: none;
+    padding-right: 30px;
+    color: blue;
+    font-weight: bold;
+}
